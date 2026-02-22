@@ -52,7 +52,8 @@ By default, the script will generate 100 random commits over the past year. If y
 # JavaScript
 // Change 100 to your desired number of commits
 makeCommit(100); 
-👨‍💻 Author
+
+Author
 Built by Harsh.
 
 
