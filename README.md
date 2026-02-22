@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Harsh3456D/Umbrella-Commits.git](https://github.com/Harsh3456D/Umbrella-Commits.git)
+   git clone [[https://github.com/Harsh3456D/GitHub-Commit-Painter.git]](https://github.com/Harsh3456D/GitHub-Commit-Painter.git)
    cd Umbrella-Commits
 Initialize the project (if not already done):
 
