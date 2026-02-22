@@ -59,4 +59,3 @@ Built by Harsh.
 
 ***
 
-How does that look to you? Would you like me to draft up a quick LinkedIn post to show off this automation script to your network?
